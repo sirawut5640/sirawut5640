@@ -1,4 +1,4 @@
-## Hi there 👋 im sirawut kitpitak
+## Hi there 👋 i'm sirawut kitpitak
 
 <!--
 **sirawut5640/sirawut5640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
