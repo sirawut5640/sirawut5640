@@ -21,24 +21,6 @@
 
 ---
 
-## 🚀 About Me
-
-> **Academic Lecturer & Researcher** specializing in **AI, GeoAI, Large Language Models (LLMs), Remote Sensing,** and **Data Science** applied to **Disaster Management**. Passionate about building robust fullstack applications, autonomous AI agent workflows, and cloud-native software architecture.
-
-* 🎓 **Role:** Academic Lecturer & PhD Candidate in Computer Science & Applied Geoinformatics
-* 🔬 **Research Focus:** GeoAI, Spatial Analytics, LLM Architectures & Remote Sensing
-* 💼 **Currently Working On:** Developing modern web application architectures & Cloud-native workflows
-* 💬 **Ask Me About:** AI/GeoAI Research, Fullstack Development, GIS, or Local LLM deployments
-* ⚡ **Fun Fact:** I once debugged an issue while on a roller coaster! 🎢
-
----
-
-## 🏆 Achievements & Recognitions
-
-* 🇹🇭 **Top GitHub Developer in Thailand:** Dynamically tracked via [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/thailand.md) (Public Contributions)
-* 🎓 **Academic & Research Impact:** Computer Science & Geoinformatics Lecturer supervising software engineering & cloud infrastructure programs
-
----
 
 ## 🛠 Tech Stack & Tools
 
@@ -75,12 +57,12 @@
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=sirawut5640&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thammarat-ai&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sirawut5640&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thammarat-ai&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirawut5640&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 
